@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @illeiva2
+- 👋 Hi, I’m @illeiva2, front end developer, junior cibersecurity technician, junior qa manual and automation.
 - 👀 I’m interested in, for now, learn about programming about everything.
 - 🌱 I’m currently learning "intellectual enterprises of computer science and the art of programming". A course from Harvard University called CS50x and another one that called Programming from 0, from Egg, a private company. So I'm a student of computer engineering from 
 faculty of engineering and water sciences, that depend of NATIONAL UNIVERSITY OF THE LITORAL.
